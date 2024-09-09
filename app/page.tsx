@@ -241,31 +241,23 @@ Start with a use-case template and get your project started in minutes.
 
 
 
-
-<div className="w-full h-[1014px] p-[80px_0] gap-[8px] opacity-100 bg-gradient-to-r from-[#FFFACD] to-[#EFEFEF] self-stretch">
-<div className="font-ttbluescreensbold text-[44px] font-extrabold uppercase leading-[94px] text-center self-stretch z-10" style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}>
-Developing tickets should be easy and fair. So we all feel Blessed.”
+<div className="w-full h-[1014px] px-[109px] py-[64px] gap-[8px] opacity-100 bg-gradient-to-r from-[#FFFACD] to-[#EFEFEF] self-stretch flex items-center">
+  <div className="flex flex-col">
+    <div className="font-ttbluescreensbold text-[44px] font-extrabold uppercase leading-[94px] text-left z-10" style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}>
+      Developing tickets should be easy and fair. So we all feel Blessed.”
     </div>
 
-    <div
-  className="font-TTBluescreensBold text-[22px] font-medium text-center leading-[32px] z-10"
-  style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}
->
-Build and customize your tickets in just 5 minutes. Integration takes under 1 minute.
-
-
-
-          
-      </div>
-
-
-      <div className="flex items-center justify-center min-h-screen">
-      <div
-        className="w-[830px] h-[601px] p-[24px_0_0_0] gap-0 border-t-[5px] border-t-transparent bg-white opacity-100"
-      >
-
-      </div>
+    <div className="font-TTBluescreensBold text-[22px] font-medium text-left leading-[32px] z-10" style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}>
+      Viet Nguyen
     </div>
+
+    <div className="font-TTBluescreensBold text-[22px] font-medium text-left leading-[32px] z-10" style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}>
+      CEO / Technology, Blessed
+    </div>
+  </div>
+
+  <div className="ml-auto w-[830px] h-[601px] border-t-[5px] border-t-transparent bg-white opacity-100">
+  </div>
 </div>
 
 
