@@ -210,9 +210,9 @@ Start with a use-case template and get your project started in minutes.
 
 
 <div className="flex items-center justify-center mt-[40px] gap-[24px]">
-  {/* Блок Conferences & meetups */}
+  
   <div className="relative w-[624px] h-[442px] p-[52px_64px] flex flex-col justify-end items-start gap-[16px] bg-[rgba(239,239,239,1)] rounded-[24px] opacity-100">
-    {/* Текст и кнопки */}
+   
     <div className="flex flex-col">
       <div className="text-[32px] font-bold mb-[16px]">Conferences & meetups</div>
       <div className="text-[18px] font-medium text-left">Effortlessly manage entries for a smooth check-in experience.</div>
@@ -220,13 +220,13 @@ Start with a use-case template and get your project started in minutes.
         View use cases
       </button>
     </div>
-    {/* Иконка */}
+   
     <img src="/party-popper--hobby-entertainment-party-popper-confetti-event.svg" alt="Favorite Icon" className="absolute top-0 right-0 w-[150px] h-[183px]" />
   </div>
 
-  {/* Блок Gaming */}
+ 
   <div className="relative w-[624px] h-[442px] p-[52px_64px] flex flex-col justify-end items-start gap-[16px] bg-[rgba(0,0,0,1)] rounded-[24px] opacity-100">
-    {/* Текст и кнопки */}
+    
     <div className="flex flex-col">
       <div className="text-[32px] font-bold mb-[16px] text-white">Gaming</div>
       <div className="text-[18px] font-medium text-left text-white">Issue and manage passes for gaming events and tournaments.</div>
@@ -234,7 +234,7 @@ Start with a use-case template and get your project started in minutes.
         View use cases
       </button>
     </div>
-    {/* Иконка */}
+
     <img src="/pacman--entertainment.svg" alt="Favorite Icon" className="absolute top-0 right-0 w-[150px] h-[183px]" />
   </div>
 </div>
