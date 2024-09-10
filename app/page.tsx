@@ -256,9 +256,51 @@ Start with a use-case template and get your project started in minutes.
     </div>
   </div>
 
-  <div className="ml-auto w-[830px] h-[601px] border-t-[5px] border-t-transparent bg-white opacity-100">
+  <div className="ml-auto w-[830px] h-[601px]">
+    <img src="/Viet.png" alt="Nguen" className="w-full h-full object-cover" />
   </div>
 </div>
+
+
+
+<div className="w-full h-[1014px] p-[80px_0] gap-[8px] opacity-100  self-stretch">
+<div className="font-ttbluescreensbold text-[44px] font-extrabold uppercase leading-[94px] text-center self-stretch z-10 mt-[40px]" style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}>
+Talk to us
+    </div>
+
+    <div
+  className="font-TTBluescreensBold text-[22px] font-medium text-center leading-[32px] z-10 mt-[40px]"
+  style={{ fontFeatureSettings: "'liga' off, 'clig' off" }}
+>
+We’re here to help you get started or answer any questions! Reach out to us through the following
+          
+      </div>
+
+
+</div>
+
+<div className="flex justify-center items-center gap-[32px]">
+  <div className="w-[624.5px] h-[279px] flex flex-col items-center justify-center gap-[32px] border-[2px] border-black rounded-[24px] opacity-100">
+    <div className="flex flex-col items-center">
+      <div className="text-[32px] font-bold mb-[16px] text-center">Book a free meeting</div>
+      <div className="text-[18px] font-medium text-center">Schedule a chat with our team.</div>
+      <button className="flex w-[200px] py-[12px] px-[28px] items-center justify-center gap-[8px] border-[2px] border-black text-black bg-transparent rounded-[39px] mt-[16px]">
+        Book on Calendly
+      </button>
+    </div>
+  </div>
+
+  <div className="w-[624.5px] h-[279px] flex flex-col items-center justify-center gap-[32px] border-[2px] border-black rounded-[24px] opacity-100">
+    <div className="flex flex-col items-center">
+      <div className="text-[32px] font-bold mb-[16px] text-center">Chat with us</div>
+      <div className="text-[18px] font-medium text-center">Join us on Telegram or connect with our team via contact.</div>
+      <button className="flex w-[185px] py-[12px] px-[28px] items-center justify-center gap-[8px] border-[2px] border-black text-black bg-transparent rounded-[39px] mt-[16px]">
+        Contact us
+      </button>
+    </div>
+  </div>
+</div>
+
 
 
     </main>
